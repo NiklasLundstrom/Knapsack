@@ -11,10 +11,10 @@ Experiments with size of population:
 
 <img src="./images/populationTest.png" width="300" title="population test">
 
-Experiments width evaporation rate:
+Experiments with evaporation rate:
 
 <img src="./images/evaporationTest.png" width="300" title="evaporation test">
 
-Experiments width elitism, i.e. how many ants will distribute pheremones every iteration:
+Experiments with elitism, i.e. how many ants will distribute pheremones every iteration:
 
 <img src="./images/eliteTest.png" width="300" title="elite test">
